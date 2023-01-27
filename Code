@@ -1,0 +1,104 @@
+<script>
+  //JavaScript code here
+  function exampleFunction() {
+    // code here
+  }
+</script><form id="wf-form-Get-Started" name="wf-form-Get-Started" data-name="Get Started" method="get" class="get-started-form w-clearfix" aria-label="Get Started">
+<div class="div-block-59">
+<label for="Full-Name" class="field-label">Full&nbsp;Name</label><input type="text" class="text-field-2 w-input" maxlength="256" name="Full-Name" data-name="Full Name" placeholder="Enter your full name" id="Full-Name" required="">
+</div>
+<div class="div-block-60">
+<label for="Email-Address-2" class="field-label">Email&nbsp;Address</label><input type="email" class="text-field-2 w-input" maxlength="256" name="Email-Address" data-name="Email Address" placeholder="Enter your email address" id="Email-Address-2" required="">
+</div>
+<div class="div-block-61">
+<label for="Phone-Number" class="field-label">Phone Number (with country code)</label><input type="text" class="text-field w-input" maxlength="256" name="Phone-Number" data-name="Phone Number" placeholder="e.g. +65 9123 4567" id="Phone-Number" required="">
+</div>
+<div class="w-layout-grid grid-9">
+<div class="div-block-61">
+<label for="Height" class="field-label">Height (in cm)</label><input type="number" class="text-field w-input" maxlength="256" name="Height" data-name="Height" placeholder="Enter a number" id="Height" required="">
+</div>
+<div class="div-block-61">
+<label for="Weight" class="field-label">Weight (in kg)</label><input type="number" class="text-field w-input" maxlength="256" name="Weight" data-name="Weight" placeholder="Enter a number" id="Weight" required="">
+</div>
+</div>
+<div class="w-layout-grid grid-9">
+<div class="div-block-61">
+<label for="Gender" class="field-label">Gender</label><select id="Gender" name="Gender" data-name="Gender" required="" class="w-select"><option value="">Select one...</option>
+<option value="Male">Male</option>
+<option value="Female">Female</option>
+<option value="Others">Others</option></select>
+</div>
+<div class="div-block-61">
+<label for="Age" class="field-label">Age</label><input type="number" class="text-field w-input" maxlength="256" name="Age" data-name="Age" placeholder="Enter a number" id="Age" required="">
+</div>
+</div>
+<div class="div-block-61">
+<label for="Studying-Working" class="field-label">Are you currently studying or working or others?&nbsp;(You may elaborate)</label><textarea id="Studying-Working" name="Studying-Working" maxlength="5000" data-name="Studying / Working" placeholder="e.g. I am working at ABC company as a marketing specialist" class="textarea w-input"></textarea>
+</div>
+<div class="div-block-61">
+<label for="name-4" class="field-label">What are your health and fitness goals?</label><label class="w-checkbox checkbox-field"><input type="checkbox" name="I-want-to-build-more-muscle" id="I-want-to-build-more-muscle" data-name="I want to build more muscle" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="I-want-to-build-more-muscle">I want to build more muscle</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="I-want-to-lose-body-fat" id="I-want-to-lose-body-fat" data-name="I want to lose body fat" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="I-want-to-lose-body-fat">I want to lose body fat</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="I-want-to-get-really-strong" id="I-want-to-get-really-strong" data-name="I want to get really strong" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="I-want-to-get-really-strong">I want to get really strong</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="I-just-want-to-get-back-into-a-routine-of-exercising" id="I-just-want-to-get-back-into-a-routine-of-exercising" data-name="I just want to get back into a routine of exercising" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="I-just-want-to-get-back-into-a-routine-of-exercising">I just want to get back into a routine of exercising</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="I-just-want-to-feel-better-and-more-confident" id="I-just-want-to-feel-better-and-more-confident" data-name="I just want to feel better and more confident" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="I-just-want-to-feel-better-and-more-confident">I just want to feel better and more confident</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="I-am-training-for-a-sport-that-I-want-to-perform-well-in" id="I-am-training-for-a-sport-that-I-want-to-perform-well-in" data-name="I am training for a sport that I want to perform well in" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="I-am-training-for-a-sport-that-I-want-to-perform-well-in">I am training for a sport that I want to perform well in</span></label>
+</div>
+<div class="div-block-61">
+<label for="name-4" class="field-label">What are the challenges you feel you need to overcome to achieve your fitness goals?</label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Lack-of-knowledge-don-t-know-how-to-start" id="Lack-of-knowledge-don-t-know-how-to-start" data-name="Lack of knowledge (don't know how to start)" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Lack-of-knowledge-don-t-know-how-to-start">Lack of knowledge (don't know how to start)</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="No-motivation" id="No-motivation" data-name="No motivation" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="No-motivation">No motivation</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Financial-costs" id="Financial-costs" data-name="Financial costs" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Financial-costs">Financial costs</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Not-enough-time" id="Not-enough-time" data-name="Not enough time" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Not-enough-time">Not enough time</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Lack-of-facilities" id="Lack-of-facilities" data-name="Lack of facilities" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Lack-of-facilities">Lack of facilities</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Family-responsibilities" id="Family-responsibilities" data-name="Family responsibilities" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Family-responsibilities">Family responsibilities</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Injuries-medical-reasons" id="Injuries-medical-reasons" data-name="Injuries/medical reasons" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Injuries-medical-reasons">Injuries/medical reasons</span></label>
+</div>
+<div class="div-block-61">
+<label for="Medical-Condition" class="field-label">Do you have any personal medical condition? Are you currently on any medication?</label><textarea id="Medical-Condition" name="Medical-Condition" maxlength="5000" data-name="Medical Condition" placeholder="Skip if you do not have any personal medical conditions." class="textarea w-input"></textarea>
+</div>
+<div class="div-block-61">
+<label for="Injuries" class="field-label">Have you had any surgeries, broken bones, or any other past/current injuries? If so, are there any movements that may aggravate those injuries?</label><textarea id="Injuries" name="Injuries" maxlength="5000" data-name="Injuries" placeholder="Skip if you do not have any injuries." class="textarea w-input"></textarea>
+</div>
+<div class="div-block-61">
+<label for="Training-Diet-Plan" class="field-label">Are you currently following any training program or diet plan?</label><textarea id="Training-Diet-Plan" name="Training-Diet-Plan" maxlength="5000" data-name="Training / Diet Plan" placeholder="Skip if you are not following any program / plan." class="textarea w-input"></textarea>
+</div>
+<div class="div-block-61">
+<label for="Number-of-meals-a-day" class="field-label">How many meals do you consume in a day?</label><input type="number" class="text-field w-input" maxlength="256" name="Number-of-meals-a-day" data-name="Number of meals a day" placeholder="Enter a number" id="Number-of-meals-a-day" required="">
+</div>
+<div class="div-block-61">
+<label for="Hours-of-sleep" class="field-label">How many hours of sleep do you get in a day?</label><input type="number" class="text-field w-input" maxlength="256" name="Hours-of-sleep" data-name="Hours of sleep" placeholder="Enter a number" id="Hours-of-sleep" required="">
+</div>
+<div class="div-block-61">
+<label for="Activity-Level" class="field-label">How active are you currently?</label><select id="Activity-Level" name="Activity-Level" data-name="Activity Level" required="" class="w-select"><option value="">Select one...</option>
+<option value="Sedentary (little to no exercise + work a desk job)">Sedentary (little to no exercise + work a desk job)</option>
+<option value="Lightly Active (light exercise 1-3 days / week)">Lightly Active (light exercise 1-3 days / week)</option>
+<option value="Moderately Active (moderate exercise 3-5 days / week)">Moderately Active (moderate exercise 3-5 days / week)</option>
+<option value="Very Active (heavy exercise 6-7 days / week)">Very Active (heavy exercise 6-7 days / week)</option>
+<option value="Extremely Active (very heavy exercise, hard labor job, training 2x / day)">Extremely Active (very heavy exercise, hard labor job, training 2x / day)</option></select>
+</div>
+<div class="div-block-61">
+<label for="Familiarity-Gym" class="field-label">How familiar are you with gym equipment and exercises?</label><select id="Familiarity-Gym" name="Familiarity-Gym" data-name="Familiarity Gym" required="" class="w-select"><option value="">Select one...</option>
+<option value="I have never entered a gym before.">I have never entered a gym before.</option>
+<option value="I know a couple of basic exercises.">I know a couple of basic exercises.</option>
+<option value="I am comfortable with using gym machines.">I am comfortable with using gym machines.</option>
+<option value="I am comfortable with using free weights.">I am comfortable with using free weights.</option>
+<option value="I am comfortable with using both free weights and machines.">I am comfortable with using both free weights and machines.</option>
+<option value="I can execute almost every movement efficiently.">I can execute almost every movement efficiently.</option></select>
+</div>
+<div class="div-block-61">
+<label for="Days-train-per-week" class="field-label">How many days can you commit to exercising in a week consistently?</label><input type="number" class="text-field w-input" maxlength="256" name="Days-train-per-week" data-name="Days train per week" placeholder="Enter a number" id="Days-train-per-week" required="">
+</div>
+<div class="div-block-61">
+<label for="Strength-Level" class="field-label">Which best describes your strength level?</label><select id="Strength-Level" name="Strength-Level" data-name="Strength Level" required="" class="w-select"><option value="">Select one...</option>
+<option value="I cannot perform any bodyweight movements.">I cannot perform any bodyweight movements.</option>
+<option value="I can perform some bodyweight movements decently well.">I can perform some bodyweight movements decently well.</option>
+<option value="I can perform bodyweight movements easily.">I can perform bodyweight movements easily.</option></select>
+</div>
+<div class="div-block-61">
+<label for="name" class="field-label">What equipment do you have access to?</label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Fully-equipped-gym-free-weights-cables-leg-extension-curl-leg-press-etc." id="Fully-equipped-gym-free-weights-cables-leg-extension-curl-leg-press-etc." data-name="Fully equipped gym (free weights, cables, leg extension/curl, leg press, etc.)" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Fully-equipped-gym-free-weights-cables-leg-extension-curl-leg-press-etc.">Fully equipped gym (free weights, cables, leg extension/curl, leg press, etc.)</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Dumbbells" id="Dumbbells" data-name="Dumbbells" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Dumbbells">Dumbbells</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Barbells" id="Barbells" data-name="Barbells" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Barbells">Barbells</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Pull-Up-Bar" id="Pull-Up-Bar" data-name="Pull Up&nbsp;Bar" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Pull-Up-Bar">Pull Up&nbsp;Bar</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Resistance-Bands" id="Resistance-Bands" data-name="Resistance Bands" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Resistance-Bands">Resistance Bands</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Cable-Machine" id="Cable-Machine" data-name="Cable Machine" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Cable-Machine">Cable Machine</span></label><label class="w-checkbox checkbox-field"><input type="checkbox" name="Smith-Machine" id="Smith-Machine" data-name="Smith Machine" class="w-checkbox-input"><span class="checkbox-label w-form-label" for="Smith-Machine">Smith Machine</span></label>
+</div>
+<div class="div-block-61">
+<label for="Package-2" class="field-label">We offer online coaching services as well as customized plans.</label><div class="text-block-32">If you'd like progress tracking and check-ins with a coach, we highly recommend our <strong>online coaching package</strong>. Besides providing on-going support for training, nutrition, and recovery, our online coaching offers a good learning opportunity to strengthen your knowledge on training programming, and sustainable eating habits.<br><br>If you're familiar with our methods of training, and just need a customized program to guide you towards your goals, our customized plans are a great bang for your buck!</div>
+</div>
+<div class="div-block-61">
+<label for="Package" class="field-label">Which package are you interested in?</label><select id="Package" name="Package" data-name="Package" required="" class="w-select"><option value="">Select one...</option>
+<option value="1-on-1 Online Coaching (1 Month)">1-on-1 Online Coaching (1 Month)</option>
+<option value="1-on-1 Online Coaching (3 Months) -&nbsp;Recommended!">1-on-1 Online Coaching (3 Months) -&nbsp;Recommended!</option>
+<option value="1-on-1 Online Coaching (6 Months)">1-on-1 Online Coaching (6 Months)</option>
+<option value="Customized Training &amp; Nutrition Plan (4 Weeks)">Customized Training &amp; Nutrition Plan (4 Weeks)</option>
+<option value="Customized Training &amp; Nutrition Plan (8 Weeks)">Customized Training &amp; Nutrition Plan (8 Weeks)</option>
+<option value="Customized Training &amp; Nutrition Plan (12 Weeks)">Customized Training &amp; Nutrition Plan (12 Weeks)</option></select>
+</div>
+<div class="div-block-62">
+<label for="Additional-Message" class="field-label">Do you have any other information that you would like us to know?</label><textarea id="Additional-Message" name="Additional-Message" maxlength="5000" data-name="Additional Message" placeholder="Type your message here" class="textarea w-input"></textarea>
+</div>
+<input type="submit" value="Let's go!" data-wait="Please wait..." class="submit-button w-button">
+</form>
